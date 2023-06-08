@@ -11,7 +11,7 @@ import SwiftUI
 struct Vision_projectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainVision()
         }
     }
 }
